@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sahashya</string>
+    <string name="start">START</string>
+    <string name="sahashya">SAHASHYA</string>
+    <string name="name">Name</string>
+    <string name="ph_number">YOUR PHONE NUMBER</string>
+    <string name="email_id">YOUR EMAIL ID</string>
+    <string name="your_information">YOUR INFORMATION</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+</resources>
